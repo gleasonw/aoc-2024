@@ -3,10 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/gleasonw/aoc-2024/day1"
+	"github.com/gleasonw/aoc-2024/day2"
 )
 
 func main() {
-	// TODO: Your code goes here
-	fmt.Print(day1.SolvePartTwo())
+	fmt.Print(day2.Solve())
 }
